@@ -1,0 +1,522 @@
+﻿Index,Empresa,Papél,Classificacao,Setor
+1,DIRECIONAL,DIRR3,Mid Cap,Novo Mercado
+2,COMGAS,CGAS3,Mid Cap,Novo Mercado
+2,COMGAS,CGAS5,Mid Cap,Novo Mercado
+3,DOHLER,DOHL3,Micro Cap,Novo Mercado
+3,DOHLER,DOHL4,Micro Cap,Novo Mercado
+4,EMAE,EMAE3,Small Cap,Novo Mercado
+4,EMAE,EMAE4,Small Cap,Novo Mercado
+5,BANCO PAN,BPAN4,Mid Cap,Nível 1 de Governança Corporativa
+6,ENERGISA,ENGI3,Mid Cap,Nível 2 de Governança Corporativa
+6,ENERGISA,ENGI4,Mid Cap,Nível 2 de Governança Corporativa
+6,ENERGISA,ENGI11,Mid Cap,Nível 2 de Governança Corporativa
+7,EVEN,EVEN3,Small Cap,Novo Mercado
+8,BBMLOGISTICA,BBML3,-,Bovespa Mais
+9,COPEL,CPLE3,Big Cap,Nível 2 de Governança Corporativa
+9,COPEL,CPLE5,Big Cap,Nível 2 de Governança Corporativa
+9,COPEL,CPLE6,Big Cap,Nível 2 de Governança Corporativa
+10,GPS,GGPS3,Mid Cap,Novo Mercado
+11,CIMS,CMSA3,-,Novo Mercado
+11,CIMS,CMSA4,-,Novo Mercado
+12,HAGA S/A,HAGA3,Nano Cap,Balcão Org. Tradicional
+12,HAGA S/A,HAGA4,Nano Cap,Balcão Org. Tradicional
+13,ALIPERTI,APTI3,Nano Cap,Novo Mercado
+13,ALIPERTI,APTI4,Nano Cap,Novo Mercado
+14,CYRELA REALT,CYRE3,Mid Cap,Novo Mercado
+15,3R PETROLEUM,BRAV3,Mid Cap,Novo Mercado
+16,DEXXOS PAR,DEXP3,Micro Cap,Nível 1 de Governança Corporativa
+16,DEXXOS PAR,DEXP4,Micro Cap,Nível 1 de Governança Corporativa
+17,BR PARTNERS,BRBI11,Small Cap,Nível 2 de Governança Corporativa
+18,HAPVIDA,HAPV3,Big Cap,Novo Mercado
+19,POMIFRUTAS,FRTA3,Nano Cap,Novo Mercado
+20,ECORODOVIAS,ECOR3,Mid Cap,Novo Mercado
+21,HELBOR,HBOR3,Micro Cap,Novo Mercado
+22,IND CATAGUAS,CATA3,-,Nível 2 de Governança Corporativa
+22,IND CATAGUAS,CATA4,-,Nível 2 de Governança Corporativa
+23,ENERGISA MT,ENMT3,Mid Cap,Novo Mercado
+23,ENERGISA MT,ENMT4,Mid Cap,Novo Mercado
+24,CAMBUCI,CAMB3,Micro Cap,Novo Mercado
+25,HIDROVIAS,HBSA3,Small Cap,Novo Mercado
+26,HERCULES,HETA3,Nano Cap,Balcão Org. Tradicional
+26,HERCULES,HETA4,Nano Cap,Balcão Org. Tradicional
+27,EQUATORIAL,EQTL3,Big Cap,Novo Mercado
+28,ESTRELA,ESTR3,Nano Cap,Balcão Org. Tradicional
+28,ESTRELA,ESTR4,Nano Cap,Balcão Org. Tradicional
+29,HOTEIS OTHON,HOOT3,Nano Cap,Novo Mercado
+29,HOTEIS OTHON,HOOT4,Nano Cap,Novo Mercado
+30,INFRACOMM,IFCM3,Nano Cap,Novo Mercado
+31,JOSAPAR,JOPA3,Micro Cap,Balcão Org. Tradicional
+31,JOSAPAR,JOPA4,Micro Cap,Balcão Org. Tradicional
+32,HABITASUL,HBTS3,Nano Cap,Novo Mercado
+32,HABITASUL,HBTS5,Nano Cap,Novo Mercado
+32,HABITASUL,HBTS6,Nano Cap,Novo Mercado
+33,KEPLER WEBER,KEPL3,Small Cap,Novo Mercado
+34,TERRASANTAPA,LAND3,Small Cap,Novo Mercado
+35,UNICASA,UCAS3,Nano Cap,Novo Mercado
+36,TIM,TIMS3,Big Cap,Novo Mercado
+37,ELETROPAR,LIPR3,Micro Cap,Novo Mercado
+38,HYPERA,HYPE3,Mid Cap,Novo Mercado
+39,COELCE,COCE3,Small Cap,Novo Mercado
+39,COELCE,COCE5,Small Cap,Novo Mercado
+39,COELCE,COCE6,Small Cap,Novo Mercado
+40,QUERO-QUERO,LJQQ3,Micro Cap,Novo Mercado
+41,BANPARA,BPAR3,Small Cap,Nível 1 de Governança Corporativa
+42,LOG COM PROP,LOGG3,Small Cap,Novo Mercado
+43,LOG-IN,LOGN3,Small Cap,Novo Mercado
+44,INEPAR,INEP3,Nano Cap,Balcão Org. Tradicional
+44,INEPAR,INEP4,Nano Cap,Balcão Org. Tradicional
+45,LOPES BRASIL,LPSB3,Micro Cap,Novo Mercado
+46,MOURA DUBEUX,MDNE3,Small Cap,Novo Mercado
+47,WLM IND COM,WLMM3,Small Cap,Balcão Org. Tradicional
+47,WLM IND COM,WLMM4,Small Cap,Balcão Org. Tradicional
+48,KARSTEN,CTKA3,Nano Cap,Balcão Org. Tradicional
+48,KARSTEN,CTKA4,Nano Cap,Balcão Org. Tradicional
+49,SERENA,SRNA3,Mid Cap,Nível 2 de Governança Corporativa
+50,SANTANENSE,CTSA3,Nano Cap,Nível 1 de Governança Corporativa
+50,SANTANENSE,CTSA4,Nano Cap,Nível 1 de Governança Corporativa
+51,MONT ARANHA,MOAR3,Small Cap,Novo Mercado
+52,NUTRIPLANT,NUTR3,Nano Cap,Bovespa Mais
+53,PETTENATI,PTNT3,Micro Cap,Novo Mercado
+53,PETTENATI,PTNT4,Micro Cap,Novo Mercado
+54,GRAZZIOTIN,CGRA3,Micro Cap,Balcão Org. Tradicional
+54,GRAZZIOTIN,CGRA4,Micro Cap,Balcão Org. Tradicional
+55,PETRORECSA,RECV3,Mid Cap,Novo Mercado
+56,CURY S/A,CURY3,Mid Cap,Novo Mercado
+57,CAIXA SEGURI,CXSE3,Big Cap,Novo Mercado
+58,LE BISCUIT,LLBI3,-,Balcão Org. Tradicional
+59,DESKTOP,DESK3,Small Cap,Novo Mercado
+60,PET MANGUINH,RPMG3,Micro Cap,Balcão Org. Tradicional
+61,VULCABRAS,VULC3,Small Cap,Novo Mercado
+62,WIZ CO,WIZC3,Micro Cap,Novo Mercado
+63,WEG,WEGE3,Mega Cap,Novo Mercado
+64,GETNINJAS,NINJ3,Micro Cap,Novo Mercado
+65,DOTZ SA,DOTZ3,Nano Cap,Novo Mercado
+66,COTEMINAS,CTNM3,Nano Cap,Balcão Org. Tradicional
+66,COTEMINAS,CTNM4,Nano Cap,Balcão Org. Tradicional
+67,DTCOM-DIRECT,DTCY3,Nano Cap,Balcão Org. Tradicional
+67,DTCOM-DIRECT,DTCY4,Nano Cap,Balcão Org. Tradicional
+68,INVEST BEMGE,FIGE3,Nano Cap,Bovespa Mais
+68,INVEST BEMGE,FIGE4,Nano Cap,Bovespa Mais
+69,DEXCO,DXCO3,Mid Cap,Novo Mercado
+70,AESOPERACOES,AESO3,-,Novo Mercado
+71,ACO ALTONA,EALT3,Micro Cap,Balcão Org. Tradicional
+71,ACO ALTONA,EALT4,Micro Cap,Balcão Org. Tradicional
+72,RIOSULENSE,RSUL3,Nano Cap,Bovespa Mais
+72,RIOSULENSE,RSUL4,Nano Cap,Bovespa Mais
+73,GER PARANAP,GEPA3,Small Cap,Balcão Org. Tradicional
+73,GER PARANAP,GEPA4,Small Cap,Balcão Org. Tradicional
+74,PPLA,PPLA11,Nano Cap,BDR Nível 3
+75,SANTANDER BR,SANB3,Big Cap,Balcão Org. Tradicional
+75,SANTANDER BR,SANB4,Big Cap,Balcão Org. Tradicional
+75,SANTANDER BR,SANB11,Big Cap,Balcão Org. Tradicional
+76,SEQUOIA LOG,SEQL3,Nano Cap,Novo Mercado
+77,ENEVA,ENEV3,Mid Cap,Novo Mercado
+78,REDE D OR,RDOR3,Big Cap,Novo Mercado
+79,ESPACOLASER,ESPA3,Micro Cap,Novo Mercado
+80,ITAUUNIBANCO,ITUB3,Mega Cap,Nível 1 de Governança Corporativa
+80,ITAUUNIBANCO,ITUB4,Mega Cap,Nível 1 de Governança Corporativa
+81,ETERNIT,ETER3,Micro Cap,Novo Mercado
+82,EZTEC,EZTC3,Small Cap,Novo Mercado
+83,TIME FOR FUN,SHOW3,Nano Cap,Novo Mercado
+84,EUCATEX,EUCA3,Small Cap,Nível 1 de Governança Corporativa
+84,EUCATEX,EUCA4,Small Cap,Nível 1 de Governança Corporativa
+85,SIMPAR,SIMH3,Small Cap,Novo Mercado
+86,FER HERINGER,FHER3,Micro Cap,Novo Mercado
+87,ALFA INVEST,BRIV3,Small Cap,Balcão Org. Tradicional
+87,ALFA INVEST,BRIV4,Small Cap,Balcão Org. Tradicional
+88,METALFRIO,FRIO3,Small Cap,Novo Mercado
+89,GAFISA,GFSA3,Micro Cap,Novo Mercado
+90,WETZEL S/A,MWET3,Nano Cap,Balcão Org. Tradicional
+90,WETZEL S/A,MWET4,Nano Cap,Balcão Org. Tradicional
+91,SAO MARTINHO,SMTO3,Mid Cap,Novo Mercado
+92,GERDAU,GGBR3,Big Cap,Nível 1 de Governança Corporativa
+92,GERDAU,GGBR4,Big Cap,Nível 1 de Governança Corporativa
+93,REDE ENERGIA,REDE3,Mid Cap,Novo Mercado
+94,MINERVA,BEEF3,Small Cap,Novo Mercado
+95,BOA SAFRA,SOJA3,Small Cap,Novo Mercado
+96,BANESTES,BEES3,Small Cap,Novo Mercado
+96,BANESTES,BEES4,Small Cap,Novo Mercado
+97,LUPATECH,LUPA3,Nano Cap,Novo Mercado
+98,SONDOTECNICA,SOND3,Nano Cap,Balcão Org. Tradicional
+98,SONDOTECNICA,SOND5,Nano Cap,Balcão Org. Tradicional
+98,SONDOTECNICA,SOND6,Nano Cap,Balcão Org. Tradicional
+99,BRADESPAR,BRAP3,Mid Cap,Nível 1 de Governança Corporativa
+99,BRADESPAR,BRAP4,Mid Cap,Nível 1 de Governança Corporativa
+100,ENJOEI,ENJU3,Micro Cap,Novo Mercado
+101,BRF SA,BRFS3,Big Cap,Novo Mercado
+102,COGNA ON,COGN3,Small Cap,Novo Mercado
+103,JOAO FORTES,JFEN3,Nano Cap,Balcão Org. Tradicional
+104,TELEBRAS,TELB3,Small Cap,Balcão Org. Tradicional
+104,TELEBRAS,TELB4,Small Cap,Balcão Org. Tradicional
+105,COPASA,CSMG3,Mid Cap,Novo Mercado
+106,BRQ,BRQB3,-,Bovespa Mais
+107,GERDAU MET,GOAU3,Mid Cap,Nível 1 de Governança Corporativa
+107,GERDAU MET,GOAU4,Mid Cap,Nível 1 de Governança Corporativa
+108,TRACK FIELD,TFCO4,Micro Cap,Nível 2 de Governança Corporativa
+109,GRUPO SBF,SBFG3,Small Cap,Novo Mercado
+110,ELETROBRAS,ELET3,Big Cap,Nível 1 de Governança Corporativa
+110,ELETROBRAS,ELET5,Big Cap,Nível 1 de Governança Corporativa
+110,ELETROBRAS,ELET6,Big Cap,Nível 1 de Governança Corporativa
+111,KORA SAUDE,KRSA3,Micro Cap,Novo Mercado
+112,SID NACIONAL,CSNA3,Mid Cap,Balcão Org. Tradicional
+113,HBR REALTY,HBRE3,Micro Cap,Novo Mercado
+114,JBS,JBSS3,Big Cap,Novo Mercado
+115,LOJAS RENNER,LREN3,Mid Cap,Novo Mercado
+116,MARCOPOLO,POMO3,Mid Cap,Nível 2 de Governança Corporativa
+116,MARCOPOLO,POMO4,Mid Cap,Nível 2 de Governança Corporativa
+117,POSITIVO TEC,POSI3,Micro Cap,Novo Mercado
+118,CTC S.A.,CTCA3,-,Bovespa Mais
+119,IRBBRASIL RE,IRBR3,Small Cap,Novo Mercado
+120,PORTOBELLO,PTBL3,Micro Cap,Novo Mercado
+121,SANEPAR,SAPR3,Mid Cap,Nível 2 de Governança Corporativa
+121,SANEPAR,SAPR4,Mid Cap,Nível 2 de Governança Corporativa
+121,SANEPAR,SAPR11,Mid Cap,Nível 2 de Governança Corporativa
+122,JALLESMACHAD,JALL3,Small Cap,Novo Mercado
+123,JHSF PART,JHSF3,Small Cap,Novo Mercado
+124,WDC NETWORKS,LVTC3,Micro Cap,Novo Mercado
+125,TUPY,TUPY3,Small Cap,Novo Mercado
+126,PRATICA,PTCA3,-,Bovespa Mais Nível 2
+127,IGUA SA,IGSN3,-,Bovespa Mais
+128,TAESA,TAEE3,Mid Cap,Nível 2 de Governança Corporativa
+128,TAESA,TAEE4,Mid Cap,Nível 2 de Governança Corporativa
+128,TAESA,TAEE11,Mid Cap,Nível 2 de Governança Corporativa
+129,KLABIN S/A,KLBN3,Big Cap,Nível 2 de Governança Corporativa
+129,KLABIN S/A,KLBN4,Big Cap,Nível 2 de Governança Corporativa
+129,KLABIN S/A,KLBN11,Big Cap,Nível 2 de Governança Corporativa
+130,VALE,VALE3,Mega Cap,Novo Mercado
+131,ULTRAPAR,UGPA3,Mid Cap,Novo Mercado
+132,VIBRA,VBBR3,Big Cap,Novo Mercado
+133,IMC S/A,MEAL3,Micro Cap,Novo Mercado
+134,VIVARA S.A.,VIVA3,Mid Cap,Novo Mercado
+135,LAVVI,LAVV3,Small Cap,Novo Mercado
+136,MUNDIAL,MNDL3,Nano Cap,Novo Mercado
+137,CVC BRASIL,CVCB3,Micro Cap,Novo Mercado
+138,USIMINAS,USIM3,Mid Cap,Nível 1 de Governança Corporativa
+138,USIMINAS,USIM5,Mid Cap,Nível 1 de Governança Corporativa
+138,USIMINAS,USIM6,Mid Cap,Nível 1 de Governança Corporativa
+139,VAMOS,VAMO3,Mid Cap,Novo Mercado
+140,METAL LEVE,LEVE3,Small Cap,Novo Mercado
+141,FLEURY,FLRY3,Mid Cap,Novo Mercado
+142,VALID,VLID3,Small Cap,Novo Mercado
+143,EQTL PARA,EQPA3,Mid Cap,Balcão Org. Tradicional
+143,EQTL PARA,EQPA5,Mid Cap,Balcão Org. Tradicional
+143,EQTL PARA,EQPA6,Mid Cap,Balcão Org. Tradicional
+143,EQTL PARA,EQPA7,Mid Cap,Balcão Org. Tradicional
+144,VITTIA,VITT3,Micro Cap,Novo Mercado
+145,WESTWING,WEST3,Nano Cap,Novo Mercado
+146,WHIRLPOOL,WHRL3,Mid Cap,Balcão Org. Tradicional
+146,WHIRLPOOL,WHRL4,Mid Cap,Balcão Org. Tradicional
+147,COMPASS,PASS3,-,Novo Mercado
+147,COMPASS,PASS5,-,Novo Mercado
+147,COMPASS,PASS6,-,Novo Mercado
+148,LIGHT S/A,LIGT3,Small Cap,Novo Mercado
+149,VITRUEDUCA,VTRU3,Small Cap,Novo Mercado
+150,AGROGALAXY,AGXY3,Nano Cap,Novo Mercado
+151,YBYRA S/A,YBRA4,Small Cap,Novo Mercado
+152,AMERICANAS,AMER3,Small Cap,Novo Mercado
+153,ATMASA,ATMP3,Nano Cap,Novo Mercado
+154,INC SA,INNC3,-,Novo Mercado
+155,BAHEMA,BAHI3,Nano Cap,Bovespa Mais
+156,MULTILASER,MLAS3,Small Cap,Novo Mercado
+157,MERC INVEST,BMIN3,Nano Cap,Novo Mercado
+157,MERC INVEST,BMIN4,Nano Cap,Novo Mercado
+158,QUALITY SOFT,QUSW3,-,Bovespa Mais
+159,MATER DEI,MATD3,Small Cap,Novo Mercado
+160,TELEF BRASIL,VIVT3,Big Cap,Balcão Org. Tradicional
+161,MOVIDA,MOVI3,Small Cap,Novo Mercado
+162,NORD BRASIL,BNBR3,Mid Cap,Balcão Org. Tradicional
+163,QUALICORP,QUAL3,Micro Cap,Novo Mercado
+164,IGB S/A,IGBR3,Mid Cap,Novo Mercado
+165,M.DIASBRANCO,MDIA3,Mid Cap,Novo Mercado
+166,BTGP BANCO,BPAC3,Mega Cap,Nível 2 de Governança Corporativa
+166,BTGP BANCO,BPAC5,Mega Cap,Nível 2 de Governança Corporativa
+166,BTGP BANCO,BPAC11,Mega Cap,Nível 2 de Governança Corporativa
+167,BRASKEM,BRKM3,Mid Cap,Nível 1 de Governança Corporativa
+167,BRASKEM,BRKM5,Mid Cap,Nível 1 de Governança Corporativa
+167,BRASKEM,BRKM6,Mid Cap,Nível 1 de Governança Corporativa
+168,BRB BANCO,BSLI3,Small Cap,Nível 1 de Governança Corporativa
+168,BRB BANCO,BSLI4,Small Cap,Nível 1 de Governança Corporativa
+169,CONST A LIND,CALI3,Nano Cap,Balcão Org. Tradicional
+170,CASAN,CASN3,Mid Cap,Balcão Org. Tradicional
+170,CASAN,CASN4,Mid Cap,Balcão Org. Tradicional
+171,CBA,CBAV3,Small Cap,Novo Mercado
+172,VESTE,VSTE3,Small Cap,Novo Mercado
+173,FRAS-LE,FRAS3,Mid Cap,Nível 1 de Governança Corporativa
+174,ALPER S.A.,APER3,Micro Cap,Novo Mercado
+175,AMBIPAR,AMBP3,Mid Cap,Novo Mercado
+176,GOL,GOLL3,Micro Cap,Nível 2 de Governança Corporativa
+176,GOL,GOLL4,Micro Cap,Nível 2 de Governança Corporativa
+177,BANESE,BGIP3,Micro Cap,Balcão Org. Tradicional
+177,BANESE,BGIP4,Micro Cap,Balcão Org. Tradicional
+178,CELGPAR,GPAR3,Small Cap,Novo Mercado
+179,GRENDENE,GRND3,Mid Cap,Novo Mercado
+180,MARFRIG,MRFG3,Mid Cap,Novo Mercado
+181,MULTIPLAN,MULT3,Mid Cap,Nível 2 de Governança Corporativa
+182,YDUQS PART,YDUQ3,Small Cap,Novo Mercado
+183,NEOENERGIA,NEOE3,Mid Cap,Novo Mercado
+184,CCR SA,CCRO3,Big Cap,Novo Mercado
+185,CEA MODAS,CEAB3,Small Cap,Novo Mercado
+186,CEB,CEBR3,Small Cap,Balcão Org. Tradicional
+186,CEB,CEBR5,Small Cap,Balcão Org. Tradicional
+186,CEB,CEBR6,Small Cap,Balcão Org. Tradicional
+187,STARA,STTR3,-,Bovespa Mais
+188,MANGELS INDL,MGEL3,Nano Cap,Balcão Org. Tradicional
+188,MANGELS INDL,MGEL4,Nano Cap,Balcão Org. Tradicional
+189,MAGAZ LUIZA,MGLU3,Mid Cap,Novo Mercado
+190,COELBA,CEEB3,Mid Cap,Balcão Org. Tradicional
+190,COELBA,CEEB5,Mid Cap,Balcão Org. Tradicional
+190,COELBA,CEEB6,Mid Cap,Balcão Org. Tradicional
+191,AGRIBRASIL,GRAO3,-,Bovespa Mais
+192,AMBEV S/A,ABEV3,Mega Cap,Balcão Org. Tradicional
+193,ZAMP S.A.,ZAMP3,Micro Cap,Novo Mercado
+194,CIELO,CIEL3,Mid Cap,Novo Mercado
+195,CELESC,CLSC3,Small Cap,Nível 2 de Governança Corporativa
+195,CELESC,CLSC4,Small Cap,Nível 2 de Governança Corporativa
+196,SPTURIS,AHEB3,Micro Cap,Novo Mercado
+196,SPTURIS,AHEB5,Micro Cap,Novo Mercado
+196,SPTURIS,AHEB6,Micro Cap,Novo Mercado
+197,OUROFINO S/A,OFSA3,Small Cap,Novo Mercado
+198,ABC BRASIL,ABCB4,Small Cap,Nível 2 de Governança Corporativa
+199,IGUATEMI S.A,IGTI3,Mid Cap,Nível 1 de Governança Corporativa
+199,IGUATEMI S.A,IGTI4,Mid Cap,Nível 1 de Governança Corporativa
+199,IGUATEMI S.A,IGTI11,Mid Cap,Nível 1 de Governança Corporativa
+200,MRV,MRVE3,Small Cap,Novo Mercado
+201,NEXPE,NEXP3,Nano Cap,Novo Mercado
+202,MELHOR SP,MSPA3,Micro Cap,Nível 1 de Governança Corporativa
+202,MELHOR SP,MSPA4,Micro Cap,Nível 1 de Governança Corporativa
+203,ANIMA,ANIM3,Micro Cap,Novo Mercado
+204,PINE,PINE3,Small Cap,Nível 2 de Governança Corporativa
+204,PINE,PINE4,Small Cap,Nível 2 de Governança Corporativa
+205,IOCHP-MAXION,MYPK3,Small Cap,Novo Mercado
+206,ASSAI,ASAI3,Mid Cap,Novo Mercado
+207,EXCELSIOR,BAUH3,Micro Cap,Balcão Org. Tradicional
+207,EXCELSIOR,BAUH4,Micro Cap,Balcão Org. Tradicional
+208,NEOGRID,NGRD3,Micro Cap,Novo Mercado
+209,BRASIL,BBAS3,Mega Cap,Novo Mercado
+210,RUMO S.A.,RAIL3,Big Cap,Novo Mercado
+211,BOMBRIL,BOBR3,Micro Cap,Novo Mercado
+211,BOMBRIL,BOBR4,Micro Cap,Novo Mercado
+212,CRISTAL,CRPG3,Micro Cap,Balcão Org. Tradicional
+212,CRISTAL,CRPG5,Micro Cap,Balcão Org. Tradicional
+212,CRISTAL,CRPG6,Micro Cap,Balcão Org. Tradicional
+213,COSERN,CSRN3,Small Cap,Balcão Org. Tradicional
+213,COSERN,CSRN5,Small Cap,Balcão Org. Tradicional
+213,COSERN,CSRN6,Small Cap,Balcão Org. Tradicional
+214,FER C ATLANT,VSPT3,Micro Cap,Balcão Org. Tradicional
+214,FER C ATLANT,VSPT4,Micro Cap,Balcão Org. Tradicional
+215,BANRISUL,BRSR3,Mid Cap,Nível 1 de Governança Corporativa
+215,BANRISUL,BRSR5,Mid Cap,Nível 1 de Governança Corporativa
+215,BANRISUL,BRSR6,Mid Cap,Nível 1 de Governança Corporativa
+216,MERC FINANC,MERC3,Micro Cap,Balcão Org. Tradicional
+216,MERC FINANC,MERC4,Micro Cap,Balcão Org. Tradicional
+217,GRUPO NATURA,NTCO3,Mid Cap,Novo Mercado
+218,LOJAS MARISA,AMAR3,Micro Cap,Novo Mercado
+219,LIFEMED,LMED3,-,Bovespa Mais
+220,ODONTOPREV,ODPV3,Mid Cap,Novo Mercado
+221,OI,OIBR3,Micro Cap,Nível 1 de Governança Corporativa
+221,OI,OIBR4,Micro Cap,Nível 1 de Governança Corporativa
+222,OCEANPACT,OPCT3,Small Cap,Novo Mercado
+223,ORIZON,ORVR3,Small Cap,Novo Mercado
+224,ARMAC,ARML3,Small Cap,Novo Mercado
+225,AUREN,AURE3,Mid Cap,Novo Mercado
+226,PETROBRAS,PETR3,Mega Cap,Nível 2 de Governança Corporativa
+226,PETROBRAS,PETR4,Mega Cap,Nível 2 de Governança Corporativa
+227,EMBPAR S/A,EPAR3,Micro Cap,Balcão Org. Tradicional
+228,PROFARMA,PFRM3,Micro Cap,Novo Mercado
+229,ESTAPAR,ALPK3,Micro Cap,Novo Mercado
+230,MILLS,MILS3,Small Cap,Novo Mercado
+231,PLANOEPLANO,PLPL3,Small Cap,Novo Mercado
+232,DIMED,PNVL3,Small Cap,Novo Mercado
+233,TREVISA,LUXM3,Micro Cap,Novo Mercado
+233,TREVISA,LUXM4,Micro Cap,Novo Mercado
+234,MELNICK,MELK3,Micro Cap,Novo Mercado
+235,PANATLANTICA,PATI3,Micro Cap,Balcão Org. Tradicional
+235,PANATLANTICA,PATI4,Micro Cap,Balcão Org. Tradicional
+236,INTELBRAS,INTB3,Mid Cap,Novo Mercado
+237,LWSA,LWSA3,Small Cap,Novo Mercado
+238,PDG REALT,PDGR3,Nano Cap,Novo Mercado
+239,CRUZEIRO EDU,CSED3,Small Cap,Novo Mercado
+240,AZUL,AZUL4,Small Cap,Nível 2 de Governança Corporativa
+241,CEMEPE,MAPT3,Nano Cap,Novo Mercado
+241,CEMEPE,MAPT4,Nano Cap,Novo Mercado
+242,MELIUZ,CASH3,Micro Cap,Novo Mercado
+243,SUZANO HOLD,NEMO3,-,Balcão Org. Tradicional
+243,SUZANO HOLD,NEMO5,-,Balcão Org. Tradicional
+243,SUZANO HOLD,NEMO6,-,Balcão Org. Tradicional
+244,MOBLY,MBLY3,Micro Cap,Novo Mercado
+245,AZZAS 2154,AZZA3,Mid Cap,Novo Mercado
+246,PADTEC,PDTC3,Nano Cap,Novo Mercado
+247,AMPLA ENERG,CBEE3,Small Cap,Novo Mercado
+248,PAR AL BAHIA,PEAB3,Micro Cap,Balcão Org. Tradicional
+248,PAR AL BAHIA,PEAB4,Micro Cap,Balcão Org. Tradicional
+249,AERIS,AERI3,Micro Cap,Novo Mercado
+250,ALPARGATAS,ALPA3,Small Cap,Nível 1 de Governança Corporativa
+250,ALPARGATAS,ALPA4,Small Cap,Nível 1 de Governança Corporativa
+251,PETZ,PETZ3,Small Cap,Novo Mercado
+252,SLC AGRICOLA,SLCE3,Mid Cap,Novo Mercado
+253,CARREFOUR BR,CRFB3,Mid Cap,Novo Mercado
+254,ATOMPAR,ATOM3,Nano Cap,Nível 2 de Governança Corporativa
+255,PAGUE MENOS,PGMN3,Small Cap,Novo Mercado
+256,WILSON SONS,PORT3,Mid Cap,Novo Mercado
+257,BAUMER,BALM3,Nano Cap,Novo Mercado
+257,BAUMER,BALM4,Nano Cap,Novo Mercado
+258,CINESYSTEM,CNSY3,-,Novo Mercado
+259,AMAZONIA,BAZA3,Mid Cap,Novo Mercado
+260,CSU DIGITAL,CSUD3,Micro Cap,Novo Mercado
+261,CEDRO,CEDO3,Micro Cap,Nível 1 de Governança Corporativa
+261,CEDRO,CEDO4,Micro Cap,Nível 1 de Governança Corporativa
+262,BRADESCO,BBDC3,Mega Cap,Nível 1 de Governança Corporativa
+262,BRADESCO,BBDC4,Mega Cap,Nível 1 de Governança Corporativa
+263,PORTO SEGURO,PSSA3,Mid Cap,Novo Mercado
+264,BBSEGURIDADE,BBSE3,Big Cap,Novo Mercado
+265,MITRE REALTY,MTRE3,Micro Cap,Novo Mercado
+266,BIOMM,BIOM3,Small Cap,Bovespa Mais
+267,PLASCAR PART,PLAS3,Nano Cap,Nível 2 de Governança Corporativa
+268,COMERC PAR,COMR3,-,Novo Mercado
+269,KALLAS,KLAS3,-,Balcão Org. Tradicional
+270,RAIADROGASIL,RADL3,Big Cap,Novo Mercado
+271,RNI,RDNI3,Nano Cap,Novo Mercado
+272,CEEE-D,CEED3,Micro Cap,Novo Mercado
+272,CEEE-D,CEED4,Micro Cap,Novo Mercado
+273,ALPHAVILLE,AVLL3,Micro Cap,Novo Mercado
+274,RAIZEN,RAIZ4,Small Cap,Nível 2 de Governança Corporativa
+275,RODOBENS,RBNS11,-,Balcão Org. Tradicional
+276,LOCALIZA,RENT3,Big Cap,Novo Mercado
+277,RENOVA,RNEW3,Micro Cap,Nível 2 de Governança Corporativa
+277,RENOVA,RNEW4,Micro Cap,Nível 2 de Governança Corporativa
+277,RENOVA,RNEW11,Micro Cap,Nível 2 de Governança Corporativa
+278,ODERICH,ODER3,Nano Cap,Novo Mercado
+278,ODERICH,ODER4,Nano Cap,Novo Mercado
+279,MERCANTIL,BMEB3,Small Cap,Nível 1 de Governança Corporativa
+279,MERCANTIL,BMEB4,Small Cap,Nível 1 de Governança Corporativa
+280,ALFA HOLDING,RPAD3,Micro Cap,Balcão Org. Tradicional
+280,ALFA HOLDING,RPAD5,Micro Cap,Balcão Org. Tradicional
+280,ALFA HOLDING,RPAD6,Micro Cap,Balcão Org. Tradicional
+281,OSX BRASIL,OSXB3,Nano Cap,Novo Mercado
+282,BARDELLA,BDLL3,Nano Cap,Bovespa Mais
+282,BARDELLA,BDLL4,Nano Cap,Bovespa Mais
+283,ALFA FINANC,CRIV3,Micro Cap,Novo Mercado
+283,ALFA FINANC,CRIV4,Micro Cap,Novo Mercado
+284,MAESTROLOC,MSRO3,-,Bovespa Mais
+285,RECRUSUL,RCSL3,Nano Cap,Novo Mercado
+285,RECRUSUL,RCSL4,Nano Cap,Novo Mercado
+286,P.ACUCAR-CBD,PCAR3,Small Cap,Novo Mercado
+287,BANCO BMG,BMGB4,Micro Cap,Nível 1 de Governança Corporativa
+288,SABESP,SBSP3,Big Cap,Novo Mercado
+289,ELEKTRO,EKTR3,Mid Cap,Balcão Org. Tradicional
+289,ELEKTRO,EKTR4,Mid Cap,Balcão Org. Tradicional
+290,SAO CARLOS,SCAR3,Small Cap,Novo Mercado
+291,BRISANET,BRIT3,Small Cap,Novo Mercado
+292,SER EDUCA,SEER3,Micro Cap,Novo Mercado
+293,SPRINGS,SGPS3,Nano Cap,Novo Mercado
+294,SCHULZ,SHUL3,Mid Cap,Nível 2 de Governança Corporativa
+294,SCHULZ,SHUL4,Mid Cap,Nível 2 de Governança Corporativa
+295,PARANAPANEMA,PMAM3,Nano Cap,Novo Mercado
+296,BEMOBI TECH,BMOB3,Small Cap,Novo Mercado
+297,SMART FIT,SMFT3,Mid Cap,Novo Mercado
+298,CAMIL,CAML3,Small Cap,Novo Mercado
+299,SANSUY,SNSY3,Nano Cap,Balcão Org. Tradicional
+299,SANSUY,SNSY5,Nano Cap,Balcão Org. Tradicional
+299,SANSUY,SNSY6,Nano Cap,Balcão Org. Tradicional
+300,ELETROMIDIA,ELMD3,Small Cap,Novo Mercado
+301,MINASMAQUINA,MMAQ3,Nano Cap,Novo Mercado
+301,MINASMAQUINA,MMAQ4,Nano Cap,Novo Mercado
+302,TEGRA INCORP,TEGA3,-,Balcão Org. Tradicional
+303,SANTOS BRP,STBP3,Mid Cap,Novo Mercado
+304,TECHNOS,TECN3,Micro Cap,Novo Mercado
+305,TAURUS ARMAS,TASA3,Small Cap,Nível 2 de Governança Corporativa
+305,TAURUS ARMAS,TASA4,Small Cap,Nível 2 de Governança Corporativa
+306,ALFA CONSORC,BRGE3,Micro Cap,Balcão Org. Tradicional
+306,ALFA CONSORC,BRGE5,Micro Cap,Balcão Org. Tradicional
+306,ALFA CONSORC,BRGE6,Micro Cap,Balcão Org. Tradicional
+306,ALFA CONSORC,BRGE7,Micro Cap,Balcão Org. Tradicional
+306,ALFA CONSORC,BRGE8,Micro Cap,Balcão Org. Tradicional
+306,ALFA CONSORC,BRGE11,Micro Cap,Balcão Org. Tradicional
+307,TEKA,TEKA3,Nano Cap,Balcão Org. Tradicional
+307,TEKA,TEKA4,Nano Cap,Balcão Org. Tradicional
+308,ROMI,ROMI3,Small Cap,Novo Mercado
+309,TEKNO,TKNO3,Micro Cap,Novo Mercado
+309,TEKNO,TKNO4,Micro Cap,Novo Mercado
+310,B3,B3SA3,Big Cap,Novo Mercado
+311,ROSSI RESID,RSID3,Nano Cap,Novo Mercado
+312,CSNMINERACAO,CMIN3,Big Cap,Nível 2 de Governança Corporativa
+313,TEX RENAUX,TXRX3,Nano Cap,Balcão Org. Tradicional
+313,TEX RENAUX,TXRX4,Nano Cap,Balcão Org. Tradicional
+314,NORTCQUIMICA,NRTQ3,-,Bovespa Mais
+315,TENDA,TEND3,Small Cap,Novo Mercado
+316,TEGMA,TGMA3,Small Cap,Novo Mercado
+317,SYN PROP TEC,SYNE3,Small Cap,Novo Mercado
+318,AZEVEDO,AZEV3,Micro Cap,Novo Mercado
+318,AZEVEDO,AZEV4,Micro Cap,Novo Mercado
+319,TRAN PAULIST,TRPL3,Mid Cap,Nível 1 de Governança Corporativa
+319,TRAN PAULIST,TRPL4,Mid Cap,Nível 1 de Governança Corporativa
+320,FERBASA,FESA3,Small Cap,Nível 1 de Governança Corporativa
+320,FERBASA,FESA4,Small Cap,Nível 1 de Governança Corporativa
+321,IRANI,RANI3,Small Cap,Novo Mercado
+322,FICA,FIEI3,Nano Cap,Novo Mercado
+323,3TENTOS,TTEN3,Mid Cap,Novo Mercado
+324,TOTVS,TOTS3,Mid Cap,Novo Mercado
+325,UNIFIQUE,FIQE3,Small Cap,Novo Mercado
+326,AES BRASIL,AESB3,Mid Cap,Novo Mercado
+327,UNIPAR,UNIP3,Mid Cap,Balcão Org. Tradicional
+327,UNIPAR,UNIP5,Mid Cap,Balcão Org. Tradicional
+327,UNIPAR,UNIP6,Mid Cap,Balcão Org. Tradicional
+328,BIC MONARK,BMKS3,Nano Cap,Bovespa Mais
+329,JSL,JSLG3,Small Cap,Novo Mercado
+330,VIVER,VIVR3,Nano Cap,Novo Mercado
+331,VIVEO,VVEO3,Micro Cap,Novo Mercado
+332,CASAS BAHIA,BHIA3,Micro Cap,Novo Mercado
+333,TC,TRAD3,Micro Cap,Novo Mercado
+334,BLAU,BLAU3,Small Cap,Novo Mercado
+335,CPFL ENERGIA,CPFE3,Big Cap,Novo Mercado
+336,RANDON PART,RAPT3,Small Cap,Nível 1 de Governança Corporativa
+336,RANDON PART,RAPT4,Small Cap,Nível 1 de Governança Corporativa
+337,CLEARSALE,CLSA3,Small Cap,Novo Mercado
+338,COSAN,CSAN3,Mid Cap,Novo Mercado
+339,SUZANO S.A.,SUZB3,Big Cap,Novo Mercado
+340,PETRORIO,PRIO3,Big Cap,Novo Mercado
+341,GRUPO MATEUS,GMAT3,Mid Cap,Novo Mercado
+342,TRIUNFO PART,TPIS3,Micro Cap,Novo Mercado
+343,TRISUL,TRIS3,Micro Cap,Novo Mercado
+344,ENGIE BRASIL,EGIE3,Big Cap,Novo Mercado
+345,CEG,CEGR3,Mid Cap,Novo Mercado
+346,GENERALSHOPP,GSHP3,Nano Cap,Nível 1 de Governança Corporativa
+347,CEMIG,CMIG3,Big Cap,Nível 1 de Governança Corporativa
+347,CEMIG,CMIG4,Big Cap,Nível 1 de Governança Corporativa
+348,GUARARAPES,GUAR3,Small Cap,Novo Mercado
+349,ITAUSA,ITSA3,Big Cap,Nível 1 de Governança Corporativa
+349,ITAUSA,ITSA4,Big Cap,Nível 1 de Governança Corporativa
+350,ALLIAR,AALR3,Small Cap,Novo Mercado
+351,AFLUENTE T,AFLT3,Micro Cap,Balcão Org. Tradicional
+352,ALLOS,ALOS3,Mid Cap,Novo Mercado
+353,ALLIED,ALLD3,Micro Cap,Novo Mercado
+354,BRASILAGRO,AGRO3,Small Cap,Novo Mercado
+355,ALUPAR,ALUP3,Mid Cap,Nível 2 de Governança Corporativa
+355,ALUPAR,ALUP4,Mid Cap,Nível 2 de Governança Corporativa
+355,ALUPAR,ALUP11,Mid Cap,Nível 2 de Governança Corporativa
+356,MINUPAR,MNPR3,Nano Cap,Balcão Org. Tradicional
+357,POLPAR,PPAR3,Nano Cap,Balcão Org. Tradicional
+358,PRINER,PRNR3,Micro Cap,Novo Mercado
+359,METISA,MTSA3,Micro Cap,Balcão Org. Tradicional
+359,METISA,MTSA4,Micro Cap,Balcão Org. Tradicional
+360,NORDON MET,NORD3,Nano Cap,Novo Mercado
+361,D1000VFARMA,DMVF3,Micro Cap,Novo Mercado
+362,EMBRAER,EMBR3,Big Cap,Novo Mercado
+363,TECNISA,TCSA3,Nano Cap,Novo Mercado
+364,ONCOCLINICAS,ONCO3,Small Cap,Novo Mercado
+365,DASA,DASA3,Small Cap,Novo Mercado
+361,D1000VFARMA,DMVF3,Micro Cap,Novo Mercado
+362,EMBRAER,EMBR3,Big Cap,Novo Mercado
+363,TECNISA,TCSA3,Nano Cap,Novo Mercado
+364,ONCOCLINICAS,ONCO3,Small Cap,Novo Mercado
+365,DASA,DASA3,Small Cap,Novo Mercado
+361,D1000VFARMA,DMVF3,Micro Cap,Novo Mercado
+362,EMBRAER,EMBR3,Big Cap,Novo Mercado
+363,TECNISA,TCSA3,Nano Cap,Novo Mercado
+364,ONCOCLINICAS,ONCO3,Small Cap,Novo Mercado
+365,DASA,DASA3,Small Cap,Novo Mercado
+361,D1000VFARMA,DMVF3,Micro Cap,Novo Mercado
+362,EMBRAER,EMBR3,Big Cap,Novo Mercado
+363,TECNISA,TCSA3,Nano Cap,Novo Mercado
+364,ONCOCLINICAS,ONCO3,Small Cap,Novo Mercado
+365,DASA,DASA3,Small Cap,Novo Mercado
